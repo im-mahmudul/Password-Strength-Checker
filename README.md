@@ -16,3 +16,5 @@ Here’s a basic outline and code for creating a Password Strength Checker in C.
 	2.	Check the password length.
 	3.	Check for lowercase, uppercase, digits, and special characters.
 	4.	Provide feedback on the password strength.
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/37f67d9b-596d-4a2b-9d9a-617435e78711">
+<img width="664" alt="image" src="https://github.com/user-attachments/assets/fb44af80-b1a8-44c3-966a-0c619c31248b">
